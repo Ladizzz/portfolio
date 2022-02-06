@@ -9,3 +9,13 @@
     margin: 0;
     padding: 0;
 }
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+@import 'blocks/promo';
+@import 'blocks/title';
+@import 'blocks/button';
+@import 'blocks/sidepanel';
